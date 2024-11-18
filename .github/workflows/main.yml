@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Main Heading</h1>
+    <p>This text is an <b>introduction</b> to the starter of my course.It will be further more improvable in upcoming classes.</p>
+    <h2>Sub Heading</h2>
+    <p>Many long articles such as <u>social pages</u>, or <u>skin care products</u> or <u>any other blogs</u> might have <i>sub-headings</i> in their websites.</p>
+    <h3>Sub-sub Headings</h3>
+    <p>There may be many more <b>sub-sub headings</b> or <b>low level headings</b> in articles.</p>
+
+    <p>Apart from headings, we had discussed about <b>super-script</b> and <b>sub-script</b></p> 
+    <p><I>FOR EXAMPLE</I></p>
+
+    <p><q> Element number 2 of Hydrogen will be written as: <b>H<sub>2</sub>O</b></b></q></p>
+    <p><hr></p>
+
+
+    <p><b>Last Class : 25<sup>th</sup>SEPT. 2024</b></p>
+    <h3><b><i>AFIFA  ZAHRA</i></b></h3>
+    <h4>Thank-you!</h4>
+
+    ta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seminar</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th {
+            text-align: center; /* Center text in table headers */
+        }
+    </style>
+</head>
+<body>
+    <h2><u>SEMINAR</u></h2>
+    <table border="1">
+        <tr>
+            <td rowspan="3">Day</td>
+            <td colspan="3" align="center">Seminar</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">Schedule</td>
+            <td rowspan="2">Topic</td>
+        </tr>
+        <tr>
+            <td>Begin</td>
+            <td>End</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Monday</td>
+            <td rowspan="2">8:00 a.m. </td>
+            <td rowspan="2">5:00 p.m. </td>
+            <td>Introduction to XML</td>
+        </tr>
+        <tr>
+            <td>Validity: DTD and Relax NG</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Tuesday</td>
+            <td>8:00 a.m. </td>
+            <td>11:00 a.m. </td>
+            <td rowspan="2">XPath</td>
+        </tr>
+        <tr>
+            <td>11:00 a.m. </td>
+            <td>2:00 p.m. </td>
+        </tr>
+        <tr>
+            <td>2:00 p.m. </td>
+            <td>5:00 p.m. </td>
+            <td>XSL Transformations</td>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>8:00 a.m. </td>
+            <td>12:00 p.m. </td>
+            <td>XSL Formatting Objects</td>
+        </tr>
+    </table>
+</body>
+</html
+</body>
+</html>
